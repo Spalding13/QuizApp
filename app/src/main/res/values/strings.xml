@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="question1">1) Which symbol do we use to denote the magnetic field intensity vector? :</string>
+    <string name="question2">2) Fill in the blank space: </string>
+    <string name="question2_1">TCP/IP uses ______ switching for data transmission. </string>
+    <string name="question_editText_hint">Enter answer </string>
+    <string name="question3">3) The following set of equations are called? : </string>
+    <string name="question4">4) Answer the question: </string>
+    <string name="answer1"> There is minimal electromagnetic interference in digital technology.</string>
+    <string name="answer2"> It enables multi-directional transmission simultaneously. </string>
+    <string name="answer3"> Digital can be encrypted so that only the intended receiver can decode it (like pay per view video, secure telephone etc.) </string>
+
+</resources>
